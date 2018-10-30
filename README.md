@@ -1,7 +1,7 @@
 # beat_the_edutech
 my edutech journey
 
-<p style="size:50pt"> This path is TOUGH! </p>
+<p style="font-size:50px;"><b> This path is TOUGH! </b></p>
 
 I am here, alone in Canada, pursuing a Master degree in Education, and trying to persuade people to hire me as an education technologist...
 It's a pain-in-the-ass process.
