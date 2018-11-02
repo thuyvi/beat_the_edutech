@@ -25,4 +25,4 @@ I heard that some other papers were approval in months. This is such a surprise 
 <h1 style="font-size:20px;"><b>March 2018</b></h1>
 This a <b>big</b> encouragement!!
 Love my weird face as always ~ xD
-<img src="https://user-images.githubusercontent.com/17974600/47938117-40e9d500-dea0-11e8-8422-f316898e6c70.png" alt="MMEG News">
+<img src="https://user-images.githubusercontent.com/17974600/47938117-40e9d500-dea0-11e8-8422-f316898e6c70.png" alt="MMEG News" width="50%" height="50%">
