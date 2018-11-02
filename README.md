@@ -19,5 +19,4 @@ I just wish that I have someone who keen on knowing what I feel and what I head 
 <h1 style="font-size:20px;"><b>Nov 2018</b></h1>
 One of the hardest part has been done!! :D
 </p>
-![image](https://user-images.githubusercontent.com/17974600/47937328-953f8580-de9d-11e8-9061-9a4574c45106.png)
-<p img="src:https://user-images.githubusercontent.com/17974600/47937328-953f8580-de9d-11e8-9061-9a4574c45106.png;"></p>
+<img src="https://user-images.githubusercontent.com/17974600/47937328-953f8580-de9d-11e8-9061-9a4574c45106.png" alt="REB Approval">
