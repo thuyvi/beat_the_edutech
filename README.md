@@ -17,6 +17,7 @@ I just wish that I have someone who keen on knowing what I feel and what I head 
 ![](https://2.bp.blogspot.com/-jXgVRJ_LzzA/WnDtIcBuk8I/AAAAAAAAG3s/2HFnCGm77IkX6Hr2dTa6MAVHhI5eLXxXQCLcBGAs/s1600/try-hard.gif)
 
 <h1 style="font-size:20px;"><b>Nov 2018</b></h1>
-One of the hardest part has been done!! :D
+One of the hardest tasks has been done... in just one day after the submition!! :D
+I heard that some other papers were approval in months. This is such a surprise for me.
 </p>
 <img src="https://user-images.githubusercontent.com/17974600/47937328-953f8580-de9d-11e8-9061-9a4574c45106.png" alt="REB Approval">
