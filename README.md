@@ -7,7 +7,7 @@ I am here, alone in Canada, pursuing a Master degree in Education, and trying to
 It's a pain-in-the-ass process.
 
 Last week, I have come to moan with a Graduate School counsellor that I was so depressed and lost, and that I should leave everything to go back to Vietnam.
-She has helped me a lot. And now, I am writing to encourage myself. 
+She has helped me a lot. Now, I am writing to encourage myself.<br> 
 It is like a cycle of depression. 
 
 I know that I should keep moving on, believing the journey to define myself. 
@@ -21,6 +21,12 @@ One of the hardest tasks has been done... in just one day after the submition!! 
 I heard that some other papers were approval in months. This is such a surprise for me.
 </p>
 <img src="https://user-images.githubusercontent.com/17974600/47937328-953f8580-de9d-11e8-9061-9a4574c45106.png" alt="REB Approval">
+
+<i>Nov 23</i>
+<br>I finally get the approval from the School Distrcit where I want to conduct my research paper!!!
+<br>The Superintendent even express his interest toward my paper. It's great, isn't it!!!
+<br>At the same time, I have been infomred from MITACS, an organization match research student with industrial projects, that my resume is interested by [https://makerkids.com/](url). I will have an interview with them on Nov 27. Fingers crossed!!
+<br>And, HAPPY BIRTHDAY TO ME!!!
 
 <h1 style="font-size:20px;"><b>March 2018</b></h1>
 This a <b>big</b> encouragement!!
