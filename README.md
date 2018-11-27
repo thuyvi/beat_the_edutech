@@ -20,7 +20,8 @@ I just wish that I have someone who is keen on knowing what I feel and what I he
 <i>Nov 26</i>
 <br>My very first proposal for an international conference HAS BEEN APPROVED!!
 <br>I will soon talk about my thesis about cloud-computing in education. Cannot wait! La la la
-<img src=https://user-images.githubusercontent.com/17974600/49057812-d96f3d00-f233-11e8-9e2c-9e3718e0ed69.png" alt="TESOL Conference Approval">
+<img src="https://user-images.githubusercontent.com/17974600/49057958-6e723600-f234-11e8-8cae-783fa8efd7b7.jpg" alt="TESOL Conference Approval">
+                                                                                                                                        
 <br>
 
 <i>Nov 23</i>
