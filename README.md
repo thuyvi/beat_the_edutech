@@ -20,7 +20,8 @@ I just wish that I have someone who is keen on knowing what I feel and what I he
 <i>Nov 26</i>
 <br>My very first proposal for an international conference HAS BEEN APPROVED!!
 <br>I will soon talk about my thesis about cloud-computing in education. Cannot wait! La la la
-![image](https://user-images.githubusercontent.com/17974600/49057812-d96f3d00-f233-11e8-9e2c-9e3718e0ed69.png)
+<img src=https://user-images.githubusercontent.com/17974600/49057812-d96f3d00-f233-11e8-9e2c-9e3718e0ed69.png" alt="TESOL Conference Approval">
+<br>
 
 <i>Nov 23</i>
 <br>I finally get the approval from the School Distrcit where I want to conduct my research paper!!!
@@ -32,6 +33,7 @@ One of the hardest tasks has been done... in just one day after the submition!! 
 I heard that some other papers were approval in months. This is such a surprise for me.
 </p>
 <img src="https://user-images.githubusercontent.com/17974600/47937328-953f8580-de9d-11e8-9061-9a4574c45106.png" alt="REB Approval">
+<br>
 
 <h1 style="font-size:20px;"><b>March 2018</b></h1>
 This a <b>big</b> encouragement!!
