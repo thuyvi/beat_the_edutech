@@ -30,7 +30,9 @@ I just wish that I have someone who is keen on knowing what I feel and what I he
 <br>At the same time, I have been infomred from MITACS, an organization match research student with industrial projects, that my resume is interested by [https://makerkids.com/](url). I will have an interview with them on Nov 27. Fingers crossed!!
 <br>And, HAPPY BIRTHDAY TO ME!!!
 <br>
-One of the hardest tasks has been done... in just one day after the submition!! :D
+
+<i>Nov 2</i>
+<br>One of the hardest tasks has been done... in just one day after the submition!! :D
 I heard that some other papers were approval in months. This is such a surprise for me.
 </p>
 <img src="https://user-images.githubusercontent.com/17974600/47937328-953f8580-de9d-11e8-9061-9a4574c45106.png" alt="REB Approval">
