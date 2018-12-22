@@ -17,8 +17,8 @@ I just wish that I have someone who is keen on knowing what I feel and what I he
 ![](https://2.bp.blogspot.com/-jXgVRJ_LzzA/WnDtIcBuk8I/AAAAAAAAG3s/2HFnCGm77IkX6Hr2dTa6MAVHhI5eLXxXQCLcBGAs/s1600/try-hard.gif)
 
 
-<h1 style="font-size:20px;"><b>Dec 2018</b></h1>
-<i>December 22</i>
+<h1 style="font-size:20px;"><b>December 2018</b></h1>
+<i>Dec 22</i>
 <br>Being an research assistant is joyful. I love reading and collecting research material. However, working another job at the same time really drains out my energy. I didn't study coding much. I even didn't start with a website project to practice new skills in javascript and CSS. 
 <br>Today, I have realized that I don't have enough data for my thesis. This is a huge problem. I couldn't focus to do anything except being disappointed about myself. 
 <br>I will need to talk to my supervisor to figure out what I can do. 
@@ -32,8 +32,8 @@ I just wish that I have someone who is keen on knowing what I feel and what I he
 <img src="https://user-images.githubusercontent.com/17974600/50370627-7c6d6980-05dc-11e9-814b-e50a8fbe8407.png" alt="Research Assistant Position">
 
 
-<h1 style="font-size:20px;"><b>Nov 2018</b></h1>
-<i>November 26</i>
+<h1 style="font-size:20px;"><b>November 2018</b></h1>
+<i>Nov 26</i>
 <br>My very first proposal for an international conference HAS BEEN APPROVED!!
 <br>I will soon talk about my thesis about cloud-computing in education. Cannot wait! La la la
 <img src="https://user-images.githubusercontent.com/17974600/49057958-6e723600-f234-11e8-8cae-783fa8efd7b7.jpg" alt="TESOL Conference Approval">
