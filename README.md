@@ -29,7 +29,7 @@ I just wish that I have someone who is keen on knowing what I feel and what I he
 <i>Dec 4</i>
 <br>One more milestone has been achieved!!
 <br>
-![image](https://user-images.githubusercontent.com/17974600/50370627-7c6d6980-05dc-11e9-814b-e50a8fbe8407.png)
+<img src="https://user-images.githubusercontent.com/17974600/50370627-7c6d6980-05dc-11e9-814b-e50a8fbe8407.png" alt="Research Assistant Position">
 
 
 <h1 style="font-size:20px;"><b>Nov 2018</b></h1>
