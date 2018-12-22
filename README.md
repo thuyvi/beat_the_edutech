@@ -20,15 +20,11 @@ I just wish that I have someone who is keen on knowing what I feel and what I he
 <h1 style="font-size:20px;"><b>Dec 2018</b></h1>
 <i>Dec 22</i>
 <br>Being an research assistant is joyful. I love reading and collecting research material. However, working another job at the same time really drains out my energy. I didn't study coding much. I even didn't start with a website project to practice new skills in javascript and CSS. 
-<br>
 <br>Today, I have realized that I don't have enough data for my thesis. This is a huge problem. I couldn't focus to do anything except being disappointed about myself. 
-<br>
 <br>I will need to talk to my supervisor to figure out what I can do. 
-<br>
 <br>Pracing coding is nice. It helps me to be confident with technology. However, I need to graduate with a good research paper to go on with other plans.
-<br>
 <br>Am I too ambituous?
-
+<br>
 <i>Dec 4</i>
 <br>One more milestone has been achieved!!
 <br>
