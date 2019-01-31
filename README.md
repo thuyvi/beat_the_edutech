@@ -16,6 +16,17 @@ I just wish that I have someone who is keen on knowing what I feel and what I he
 
 ![](https://2.bp.blogspot.com/-jXgVRJ_LzzA/WnDtIcBuk8I/AAAAAAAAG3s/2HFnCGm77IkX6Hr2dTa6MAVHhI5eLXxXQCLcBGAs/s1600/try-hard.gif)
 
+<h1 style="font-size:20px;"><b>January 2019</b></h1>
+<i>Jan 31</i>
+<br>It has been a month and so many things has been done.
+<br>- I have finished my chapter 4
+<br>- I have been doing peer-review at Canada Society <b>The Canadian Society for the Study of Higher Education (CSSHE)</b>. I read so many proposal and expand my knowledge a lot. 
+<br>- I will represent my faculty to compete at 3-Minute Thesis. 
+<br>Not so bad for a month.
+<br>Coding study: reallyyyyyyy slow :((
+<br>
+<img src="https://user-images.githubusercontent.com/17974600/52089168-7fe31000-25e0-11e9-871a-84fbf3db8c88.png" alt="Grad School">
+
 
 <h1 style="font-size:20px;"><b>December 2018</b></h1>
 <i>Dec 22</i>
